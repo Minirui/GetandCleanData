@@ -39,6 +39,6 @@ For the Course project the following variables were selected:
 mean(): Mean value - renamed: mean 
 std(): Standard deviation - renamed: std
 
-Then the average for each variable for each activity and volunter were calculated.    
+Then the average for each variable for each activity and volunter were calculated and .mean added to the variable names.     
 
 
